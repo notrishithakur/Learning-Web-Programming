@@ -1,6 +1,7 @@
 
 
-https://user-images.githubusercontent.com/79630997/150175149-4a892800-9101-4b7b-a40f-97bee053daec.mp4
+![gif for github read me](https://user-images.githubusercontent.com/79630997/150179420-ff1aab82-156b-451f-b3ad-4cdfbe37629e.gif)
+
 
 # Learning-Web-Programming
 The plan is to document my journey while I learn CS50 - Web Programming with Python and JS in next 60 days 
