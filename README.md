@@ -4,7 +4,7 @@
 
 
 # Learning-Web-Programming
-The plan is to document my journey while I learn Web Programming in next 100 days and beyond.
+The plan is to document my journey while I learn Web Programming and write about it.
 
 For How ?
  (https://medium.com/@rishithakurr/but-how-does-web-functions-cd43e8e52d0c).
